@@ -1,17 +1,17 @@
-![Naruto Uzumaki](https://picfiles.alphacoders.com/434/434608.jpg)
+![Naruto Uzumaki](https://i0.wp.com/ramenswag.com/wp-content/uploads/2016/12/naruto-wallpaper-7.jpg?fit=1600%2C1135&ssl=1)
 # Naruto Uzumaki Robot
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51)](https://app.codacy.com/gh/AnimeKaizoku/SaitamaRobot?utm_source=github.com&utm_medium=referral&utm_content=AnimeKaizoku/SaitamaRobot&utm_campaign=Badge_Grade_Settings)  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database.
 
-Miku is based on Saitama which is originally based on Marie.
+Naruto is based on Saitama which is originally based on Marie.
 
-Miku can be found on Telegram as [Naruto](https://t.me/NarutoUzumakiRobot).
+Naruto can be found on Telegram as [Naruto](https://t.me/NarutoUzumakiRobot).
 
 The Support group can be reached out to at [Support Group](https://t.me/KonohagakureChat), where you can ask for help about @MissZeroTwoBot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
-News channel as at [Miku Updates](https://t.me/Shinobi_updates) 
+News channel as at [Naruto Updates](https://t.me/Shinobi_updates) 
 
 ## How to setup/deploy.
 
